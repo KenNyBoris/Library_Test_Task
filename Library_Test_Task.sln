@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library_Test_Task", "Librar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library_Test_Task.DAL", "Library_Test_Task.DAL\Library_Test_Task.DAL.csproj", "{817F6A15-457E-4655-B60B-A84987E004E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Test_Task.Tests", "Library_Test_Task.Tests2\Library_Test_Task.Tests.csproj", "{7E477D5B-C036-4A6F-B670-37A3B1345A69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Test_Task.Tests", "Library_Test_Task.Tests\Library_Test_Task.Tests.csproj", "{7E477D5B-C036-4A6F-B670-37A3B1345A69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
